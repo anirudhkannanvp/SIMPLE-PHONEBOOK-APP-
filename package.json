@@ -1,0 +1,17 @@
+{
+  "name": "assign",
+  "version": "1.0.0",
+  "description": "ITWS-3 ANIRUDH ASSIGNMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ITWS-3",
+    "ANIRUDH",
+    "KANNAN",
+    "ASSIGNMENT"
+  ],
+  "author": "ANIRDUH KANNAN",
+  "license": "ISC"
+}
